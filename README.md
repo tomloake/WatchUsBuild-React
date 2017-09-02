@@ -1,3 +1,6 @@
+# Me playing with a code-a-long project
+Nothing of use to anyone here, see links below to try this yourself.
+
 # Babel with Gulp
 
 Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Browserify.
